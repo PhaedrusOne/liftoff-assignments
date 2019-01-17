@@ -9,7 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Include overview here
 My Company will sell products on a Ecommerce site. User can buy products from the comfort of home. Multiple payment options and
-cheaper products vs. big box store products also more choices and larger inventory. Users will able to shop in a safe and secure website where their info will be protected.
+cheaper products vs. big box store products also more choices and larger inventory. Users will be able to shop in a safe and secure website where their info will be protected.
 
 
 ### Features
