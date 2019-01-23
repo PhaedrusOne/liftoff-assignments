@@ -7,13 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
 My Company will sell products on a Ecommerce site. User can buy products from the comfort of home. Multiple payment options and
 cheaper products vs. big box store products also more choices and larger inventory. Users will be able to shop in a safe and secure website where their info will be protected.
 
 
 ### Features
-Include Features here
 1. Registration : User will be able to create an account login/logout
 2. Items : User can view lists of items for sale.
 3. Search : User will be able to search items using the name, filter and price.
@@ -22,7 +20,6 @@ Include Features here
 
 
 ### Technologies
-Include Technologies here
 C# 
 ASP.Net Core
 HTML
@@ -32,7 +29,6 @@ Entity Frameworks Core
 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
 jQuery Ajax to do request
 Json API
 Add some form of payment for items
