@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [As a User I want to head to teh websites landing page](https://github.com/PhaedrusOne/liftoff-assignments/blob/master/P3-Project_Planning/Landing%20Page.pdf)
 
 ### Project Tracker
 
