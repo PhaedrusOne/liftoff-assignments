@@ -17,4 +17,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-
+[Link to Repo](https://github.com/PhaedrusOne/Capstone-eCommerce)
